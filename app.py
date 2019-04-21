@@ -1,7 +1,6 @@
-name = input("what's your name:")
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
 
-print(f"Hi {name}!")
+result = float(num1) + float(num2)
 
-age = input("what's your age:")
-
-print(f"wow, {age} is old, {name}!")
+print(result)
