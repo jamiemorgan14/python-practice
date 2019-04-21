@@ -1,5 +1,7 @@
-from math import *
+name = input("what's your name:")
 
-my_nums = [0, 1, 2, 3, 4, 5]
+print(f"Hi {name}!")
 
-print(sqrt(36))
+age = input("what's your age:")
+
+print(f"wow, {age} is old, {name}!")
