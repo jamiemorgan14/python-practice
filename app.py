@@ -1,3 +1,5 @@
-phrase = "Giraffe Academy"
-add_on = "is cool"
-print(phrase.replace("Academy", "z"))
+from math import *
+
+my_nums = [0, 1, 2, 3, 4, 5]
+
+print(sqrt(36))
